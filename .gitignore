@@ -1,0 +1,9 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+*.log
+deepyeast_*/
+checkpoints/
+*.pt
